@@ -35,7 +35,10 @@ button:hover {
 }
 
 
-
+.animals {
+    position: absolute;
+    margin: -75px;
+}
 
 .right {
     text-align: right;
